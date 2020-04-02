@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Secrets
+config.ini
+test.py
+config.json
+
+*swp
